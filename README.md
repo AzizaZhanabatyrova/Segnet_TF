@@ -6,6 +6,6 @@
 
 * The model can be trained from scratch/ from a saved checkpoint/ using pre-trained weights.
 
-* Th data is loaded into the memory partially, to avoid memory problem.
+* The data is loaded into the memory partially, to avoid memory problem.
 
 * Implemented by Aziza Zhanabatyrova.
